@@ -2,4 +2,13 @@
 title: "About me"
 ---
 
-Under construction....
+<img src="../carrie-0115-2.JPG" alt="some text" style="float:right" hspace="20"
+width="170" height="170">I am a PhD candidate in Sustainable Agriculture and minoring in Women's and Gender Studies at Iowa State University, working with Kathleen Hunt and Ann Oberhauser.  My research assistantships are with ISU Extension & Outreach Local Foods Team and the SNAP-Education program, in collaboration with the ISU Extension Master Gardener program.
+
+Prior to entering my PhD program, I completed my M.S. in Sustainable Agriculture at Iowa State University in 2014, and my B.A. in The Plan II Honors Program and B.B.A. in Accounting at the University of Texas at Austin in 2008. 
+
+I'm interested in food, social, and environmental justice, with a focus on feminist community-based, participatory research. While in Ames, Iowa for graduate school, I've been involved with the Food at First garden and meal service, Wheatsfield Cooperative Grocery, and the Journal of Critical Thought and Praxis.  I also enjoy swimming, cycling, hiking, rock climbing, and generally being outdoors whenever I can.
+
+[CV](CV_Carrie_Chennault_Feb2017.pdf) | carriemcpotato@iastatesquash.edu remove the vegetables
+
+
