@@ -5,7 +5,10 @@ title: "Teaching and Engagement"
 #### Courses taught at Colorado State University
 
 **GR 100: Introduction to Geography**
-Department of Anthropology & Geography, Fall 2021 (2 sections). Major geographic themes applied to selected regions; physical environment, human-land relationships, and regional analysis.
+Department of Anthropology & Geography, Fall 2021 (2 sections), Spring 2022, Fall 2022. Major geographic themes applied to selected regions; physical environment, human-land relationships, and regional analysis.
+
+**GR 217: Human-Environment Geographies**
+Department of Anthropology & Geography, Spring 2022, Fall 2022. Examines human-environment relationships using geographic theories, geographic methods, and empirical evidence. Explores cross-scalar geographic interactions that shape environmental change and emphasizes critical thinking and small group interactions.
 
 **ECOL/GDPE 592: Sustainable Food Systems**  
 Graduate Degree Program in Ecology, Spring 2021. Interdisciplinary complexities of food systems, including material flows and sociopolitical contexts of food that are changing in response to global and local challenges. Analysis of strategies for improving the sustainability and resilience of food systems. Primary disciplinary foci include ecology, agronomy, and social sciences.
@@ -20,6 +23,9 @@ Department of Natural Resource Ecology and Management, Spring 2015. Principles o
 
 #### Guest lecturer at Colorado State University
 
+**ANTH 571: Anthropology and Global Health**  
+CSU Department of Anthropology & Geography, Fall 2022
+
 **SOC 315: Applications of Qualitative Research**  
 CSU Department of Sociology, Fall 2020
 
@@ -27,6 +33,9 @@ CSU Department of Sociology, Fall 2020
 CSU Department of Ecology Science & Sustainability, Spring 2020
 
 #### Guest lecturer at Iowa State University
+
+**WGS 402/502: Advanced Seminar in Feminist Research Methods**  
+Women's and Gender Studies Program, Spring 2022
 
 **WGS 402/502: Advanced Seminar in Feminist Research Methods**  
 Women's and Gender Studies Program, Spring 2021
@@ -49,7 +58,10 @@ Department of Natural Resource Ecology and Management, Spring 2014
 **NREM 570: Advanced Decision-Making in Natural Resource Allocation**   
 Department of Natural Resource Ecology and Management, Spring 2014  
 
-#### Educational outreach and engagement
+#### Select educational outreach and engagement
+
+**Prison agriculture in the United States: Mapping the disciplinary lanscapes of racial capitalism.**
+CSU GIS Day, 2021.
 
 **Dare to Share Your Garden**  
 ISU Extension & Outreach Cass County Spring Garden Seminar, Spring 2017
